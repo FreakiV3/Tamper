@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         RickRoll Google Pages
+// @name         Better Discord Google Pages
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  RickRoll animation on Google pages
+// @description  Better discord animations
 // @author       You
 // @match        https://discord.com/*
 // @grant        none
