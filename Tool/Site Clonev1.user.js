@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  📦 Ajoute un élément au menu contextuel pour télécharger le HTML et le CSS de la page actuelle, enregistrés dans des fichiers distincts avec le nom du site. 🖌️
-// @author       Freakidann
+// @author       Vous
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
 // @icon         https://metropolebangkok.com/wp-content/uploads/2020/10/download-logo-png-image-77292.png
