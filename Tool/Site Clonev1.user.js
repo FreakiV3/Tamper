@@ -6,6 +6,7 @@
 // @author       Freakidann
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
+// @icon         https://metropolebangkok.com/wp-content/uploads/2020/10/download-logo-png-image-77292.png
 // ==/UserScript==
 
 (function() {
