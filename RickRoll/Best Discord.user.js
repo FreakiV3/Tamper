@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Better discord animations
-// @author       You
+// @author       Freakidann
 // @match        https://discord.com/*
 // @grant        none
 // ==/UserScript==
