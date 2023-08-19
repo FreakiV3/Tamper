@@ -6,6 +6,7 @@
 // @author       Freakidann
 // @match        *://*/*
 // @grant        none
+// @icon         https://www.pngplay.com/wp-content/uploads/12/Anime-Girls-With-Brown-Hair-PNG-Clipart-Background.png
 // ==/UserScript==
 
 (function() {
